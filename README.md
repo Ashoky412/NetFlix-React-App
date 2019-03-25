@@ -1,2 +1,2 @@
-# A Complete Intro to React
+Very naive functional implementation of NetFlix app using ReactJs
 
